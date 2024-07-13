@@ -23,18 +23,18 @@
 #
 <h2> Contato: </h2>
 <div>
-  <a href="https://www.linkedin.com/in/jackson-tim%C3%B3teo-ba1885101/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href = "mailto:jacksonsilva0195@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitor-augusto-santos-203596202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href = "mailto:vaugusto.pereira17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.instagram.com/jacksonsiilvaa_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/v1timm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
  #
  ## :mortar_board: Github Stats
 <div>
-  <a href="https://github.com/jackson-timoteo"></a>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jackson-Timoteo&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-Timoteo&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/LongSlever"></a>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LongSlever&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LongSlever&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
@@ -44,6 +44,6 @@ Loanding Snake Status
 </div>
 <div>
   <picture align="center">    
-    <img src="https://github.com/Jackson-Timoteo/Jackson-Timoteo/blob/main/snake-svg.svg">
+    <img src="https://github.com/LongSlever/LongSlever/blob/main/snake-svg.svg">
   </picture>
 </div>
